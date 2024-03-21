@@ -6,7 +6,7 @@ To develop a Django application to store and retrieve data from a railway databa
 
 ## Entity Relationship Diagram
 
-![alt text](<Screenshot 2024-03-21 135353.png>)
+![alt text](<WhatsApp Image 2024-03-21 at 1.57.06 PM.jpeg>)
 
 ## DESIGN STEPS
 
@@ -49,8 +49,7 @@ admin.site.register(railway,railwayAdmin)
 
 ## OUTPUT
 
-![alt text](<WhatsApp Image 2024-03-21 at 1.57.06 PM.jpeg>)
-
+![alt text](<Screenshot 2024-03-21 135353.png>)
 
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
